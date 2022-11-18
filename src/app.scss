@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
+$primary: #f8d8ba;
+$primary-light: #faecd3;
+
+$font-family-sans-serif: 'Merriweather', sans-serif;
+
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
